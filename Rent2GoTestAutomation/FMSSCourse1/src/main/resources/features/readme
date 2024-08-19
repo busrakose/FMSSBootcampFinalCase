@@ -1,0 +1,8 @@
+https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+login feature
+    false
+    true login
+search feature
+    7 test case
+step definitionlar yapılacak
+    her bir step kendi içerisinde tarayıcı açacak testlerini assertlerini yapacak tarayıcıyı kapatacak.

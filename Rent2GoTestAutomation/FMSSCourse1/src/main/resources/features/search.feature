@@ -1,0 +1,1 @@
+#7 tane search senaryosu yazılacak.
